@@ -62,6 +62,6 @@ Manejo de excepciones en el constructor __init__ de la clase Vehiculo.
 En la **Figura 5** en el constructor *__init__* de la clase Vehiculo establecemos una pequeña validación que comprueba que los parámetros *numeroRuedas* y *numeroAsientos* sean de tipo **int** (valor númerico), descartando cualquier otro tipo de valor (string, bool). Al momento de crear la instancia de la clase Vehiculo si se llegase a pasar como argumento un valor que no sea número se lanzaría un **raise** de tipo **ValueError** indicando el problema. 
 
 ---
-##**<center>Referencias bibliográficas**
+##<center>Referencias bibliográficas
 
 > Ramírez Coronel, R. L. (2025). Programación Orientada a Objetos: Guía didáctica (1.ª ed.). Ediloja Cia. Ltda.
