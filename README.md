@@ -1,5 +1,5 @@
 ### <center> Universidad Técnica Particular de Loja (UTPL)  
-##### <center>Carrera de Redes y Analítica de Datos
+### <center>Carrera de Redes y Analítica de Datos
 
 # Programación Orientada a Objetos #
 ℹ️ Docente: WAYNER XAVIER BUSTAMANTE GRANDA  
