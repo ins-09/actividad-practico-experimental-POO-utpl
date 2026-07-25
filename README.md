@@ -11,4 +11,4 @@
 ---
 **Figura 1**    
 Diseño UML del código
-![alt text](image-6.png) 
+![alt text](mi-docs\docs\image-6.png) 
