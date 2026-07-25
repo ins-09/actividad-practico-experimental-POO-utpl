@@ -11,4 +11,4 @@
 ---
 **Figura 1**    
 Diseño UML del código
-![alt text]([mi-docs\docs\image-6.png](https://github.com/user-attachments/assets/39116efa-39c8-4780-8891-fc80cf9c4320)) 
+[mi-docs\docs\image-6.png](https://github.com/user-attachments/assets/39116efa-39c8-4780-8891-fc80cf9c4320)
